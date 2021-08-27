@@ -2,8 +2,8 @@
 Microservices project for CO4353 Distributed Systems
 
 Prerequists:
-RabbitMQ
-Strip
+1. RabbitMQ
+2. Stripe
 
 Steps:
 1. Install RabbitMQ and run RabbitMQ command prompt
